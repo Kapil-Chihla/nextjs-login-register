@@ -27,6 +27,6 @@ Before running the application, make sure you have the following installed:
    node src/backend/server.js
 
 ## Features
- ### Login Page: Allows users to log in with their credentials and then directed to dashboard if account does not exists they can Sign Up from the link below.
- ### Registration Page: Allows new users to register for an accountand then directed to dashboard if account exists they can Login In from the link below.
+ - **Login Page:** Allows users to log in with their credentials and then directed to dashboard if account does not exists they can Sign Up from the link below.
+ - **Registration Page:** Allows new users to register for an accountand then directed to dashboard if account exists they can Login In from the link below.
 
