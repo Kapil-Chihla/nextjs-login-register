@@ -1,0 +1,32 @@
+/* .react-tel-input .country-list .country {
+    color: #000; 
+  }
+  
+.react-tel-input .country-list .country:hover {
+    background-color: #e5e7eb;
+} */
+
+/* custom-phone-input.css */
+
+.react-tel-input .form-control {
+    /* width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.25rem; */
+    background-color: #374151; /* Tailwind class bg-gray-700 */
+    color: #fff; /* Tailwind class text-white */
+  }
+  
+  .react-tel-input .flag-dropdown {
+    background-color: #374151; /* Tailwind class bg-gray-700 */
+    color: #fff; /* Tailwind class text-white */
+  }
+  
+  .react-tel-input .country-list .country {
+    color: #000; /* Dark text for country names */
+  }
+  
+  .react-tel-input .country-list .country:hover {
+    background-color: #e5e7eb; /* Light background on hover */
+    color: #000; /* Dark text on hover */
+  }
+  
