@@ -11,8 +11,8 @@ Before running the application, make sure you have the following installed:
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone 
-   cd <repository_name>
+   git clone https://github.com/Kapil-Chihla/nextjs-login-register.git
+   cd nextjs-login-register
 
 2. **Download Dependecies:**
    ```
