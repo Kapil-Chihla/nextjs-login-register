@@ -1,7 +1,7 @@
 # Next.js Login and Registration Project
 
 ## Overview
-This repository contains a Next.js application with features for user authentication, including login and registration pages.
+This repository contains a Next.js application with features for user authentication, including login, registration and dashboard pages.
 
 ## Prerequisites
 Before running the application, make sure you have the following installed:
