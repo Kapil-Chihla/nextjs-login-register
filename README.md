@@ -11,11 +11,12 @@ Before running the application, make sure you have the following installed:
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone 
    cd <repository_name>
 
 2. **Download Dependecies:**
-   ```npm install
+   ```
+   npm install
 
 3. **Start the development server:**
    npm run dev
